@@ -1,6 +1,6 @@
 {
   "name": "strip-vendor-prefix",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Strips standard CSS vendor prefix.",
   "license": "MIT",
   "repository": "hemanth/strip-vendor-prefix",
